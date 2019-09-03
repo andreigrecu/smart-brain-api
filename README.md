@@ -1,6 +1,6 @@
 # **smart-brain-api**
 
-.     Clone this repo
+1     Clone this repo
 
 .     Run _npm install_
 
