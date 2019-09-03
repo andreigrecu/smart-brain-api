@@ -1,13 +1,10 @@
-# **smart-brain-api**
+# SmartBrain-api - 
 
-.......Clone this repo........
+1. Clone this repo
+2. Run `npm install`
+3. Run `npm start`
+4. You must add your own API key in the `controllers/image.js` file to connect to Clarifai API.
 
-.......Run _npm install_.......
-
-...     Run _npm start_      ...
- 
-...     You must add your own API key in the _controllers/image.js_ file to connect to Clarifai API.     .....
-
-.     You can grab Clarifai API key https://www.clarifai.com/[ here.]. 
+You can grab Clarifai API key [here](https://www.clarifai.com/)
 
 ** Make sure you use postgreSQL instead of mySQL for this code base.
